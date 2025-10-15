@@ -1,1 +1,1 @@
-# Exception_handling_in_C-_ktp_lab6
+# Exception_handling_ktp_lab6
