@@ -1,0 +1,15 @@
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/bin/Debug/net7.0/lab6 Ktp Buts
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/bin/Debug/net7.0/lab6 Ktp Buts.deps.json
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/bin/Debug/net7.0/lab6 Ktp Buts.runtimeconfig.json
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/bin/Debug/net7.0/lab6 Ktp Buts.dll
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/bin/Debug/net7.0/lab6 Ktp Buts.pdb
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.csproj.AssemblyReference.cache
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.AssemblyInfoInputs.cache
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.AssemblyInfo.cs
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.csproj.CoreCompileInputs.cache
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.dll
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/refint/lab6 Ktp Buts.dll
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.pdb
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/lab6 Ktp Buts.genruntimeconfig.cache
+/Users/misha/Projects/lab6 Ktp Buts/lab6 Ktp Buts/obj/Debug/net7.0/ref/lab6 Ktp Buts.dll
